@@ -1,0 +1,211 @@
+[
+    {
+        "id": 1,
+        "question": "Who was the first Prime Minister of India?",
+        "reference_answer": "Jawaharlal Nehru",
+        "source": "https://en.wikipedia.org/wiki/Jawaharlal_Nehru",
+        "category": "Indian History"
+    },
+    {
+        "id": 2,
+        "question": "In which year did India gain independence?",
+        "reference_answer": "1947",
+        "source": "https://en.wikipedia.org/wiki/Indian_independence_movement",
+        "category": "Indian History"
+    },
+    {
+        "id": 3,
+        "question": "What is the capital of India?",
+        "reference_answer": "New Delhi",
+        "source": "https://en.wikipedia.org/wiki/New_Delhi",
+        "category": "Indian Geography"
+    },
+    {
+        "id": 4,
+        "question": "Which is the longest river in India,also spelled as Ganga?",
+        "reference_answer": "Ganges",
+        "source": "https://en.wikipedia.org/wiki/Ganges",
+        "category": "Indian Geography"
+    },
+    {
+        "id": 5,
+        "question": "Who is known as the Father of the Indian Nation?",
+        "reference_answer": "Mahatma Gandhi",
+        "source": "https://en.wikipedia.org/wiki/Mahatma_Gandhi",
+        "category": "Indian History"
+    },
+    {
+        "id": 6,
+        "question": "Which is the largest state in India by area?",
+        "reference_answer": "Rajasthan",
+        "source": "https://en.wikipedia.org/wiki/Rajasthan",
+        "category": "Indian Geography"
+    },
+    {
+        "id": 7,
+        "question": "Who was the first President of India?",
+        "reference_answer": "Rajendra Prasad",
+        "source": "https://en.wikipedia.org/wiki/Rajendra_Prasad",
+        "category": "Indian History"
+    },
+    {
+        "id": 8,
+        "question": "In which year was the Battle of Panipat first fought?",
+        "reference_answer": "1526",
+        "source": "https://en.wikipedia.org/wiki/First_Battle_of_Panipat",
+        "category": "Indian History"
+    },
+    {
+        "id": 9,
+        "question": "Which mountain range separates India from China?",
+        "reference_answer": "Himalayan",
+        "category": "Indian Geography"
+    },
+    {
+        "id": 10,
+        "question": "Who built the Taj Mahal?",
+        "reference_answer": "Shah Jahan",
+        "source": "https://en.wikipedia.org/wiki/Taj_Mahal",
+        "category": "Indian History"
+    },
+    {
+        "id": 11,
+        "question": "Which is the smallest state in India by area?",
+        "reference_answer": "Goa",
+        "source": "https://en.wikipedia.org/wiki/Goa",
+        "category": "Indian Geography"
+    },
+    {
+        "id": 12,
+        "question": "In which year was the Indian Constitution adopted?",
+        "reference_answer": "1949",
+        "source": "https://en.wikipedia.org/wiki/Constitution_of_India",
+        "category": "Indian History"
+    },
+    {
+        "id": 13,
+        "question": "Which river is known as the lifeline of Punjab,also spelled satluj?",
+        "reference_answer": "Sutlej",
+        "source": "https://en.wikipedia.org/wiki/Sutlej",
+        "category": "Indian Geography"
+    },
+    {
+        "id": 14,
+        "question": "Who was the founder of the Maurya Empire?",
+        "reference_answer": "Chandragupta Maurya",
+        "source": "https://en.wikipedia.org/wiki/Chandragupta_Maurya",
+        "category": "Indian History"
+    },
+    {
+        "id": 15,
+        "question": "Which is the highest peak in India, also spelled as kanchenjunga?",
+        "reference_answer": "Kangchenjunga",
+        "source": "https://en.wikipedia.org/wiki/Kangchenjunga",
+        "category": "Indian Geography"
+    },
+    {
+        "id": 16,
+        "question": "In which year did the Jallianwala Bagh massacre occur?",
+        "reference_answer": "1919",
+        "source": "https://en.wikipedia.org/wiki/Jallianwala_Bagh_massacre",
+        "category": "Indian History"
+    },
+    {
+        "id": 17,
+        "question": "Which is the largest desert in India?",
+        "reference_answer": "Thar Desert",
+        "source": "https://en.wikipedia.org/wiki/Thar_Desert",
+        "category": "Indian Geography"
+    },
+    {
+        "id": 18,
+        "question": "Who wrote the Indian National Anthem Jana Gana Mana?",
+        "reference_answer": "Rabindranath Tagore",
+        "source": "https://en.wikipedia.org/wiki/Jana_Gana_Mana",
+        "category": "Indian History"
+    },
+    {
+        "id": 19,
+        "question": "Which is the largest brackish water lake in India?",
+        "reference_answer": "Chilika Lake",
+        "source": "https://en.wikipedia.org/wiki/Chilika_Lake",
+        "category": "Indian Geography"
+    },
+    {
+        "id": 20,
+        "question": "Who was the last Mughal Emperor of India?",
+        "reference_answer": "Bahadur Shah Zafar",
+        "source": "https://en.wikipedia.org/wiki/Bahadur_Shah_II",
+        "category": "Indian History"
+    },
+    {
+        "id": 21,
+        "question": "Which is the southernmost tip of mainland India?",
+        "reference_answer": "Kanyakumari",
+        "source": "https://en.wikipedia.org/wiki/Kanyakumari",
+        "category": "Indian Geography"
+    },
+    {
+        "id": 22,
+        "question": "In which year did India conduct its first nuclear test?",
+        "reference_answer": "1974",
+        "source": "https://en.wikipedia.org/wiki/Smiling_Buddha",
+        "category": "Indian History"
+    },
+    {
+        "id": 23,
+        "question": "Which state has the longest coastline in India?",
+        "reference_answer": "Gujarat",
+        "source": "https://en.wikipedia.org/wiki/Gujarat",
+        "category": "Indian Geography"
+    },
+    {
+        "id": 24,
+        "question": "Who was the first woman Prime Minister of India?",
+        "reference_answer": "Indira Gandhi",
+        "source": "https://en.wikipedia.org/wiki/Indira_Gandhi",
+        "category": "Indian History"
+    },
+    {
+        "id": 25,
+        "question": "Which is the largest river island in the world located in India?",
+        "reference_answer": "Majuli",
+        "source": "https://en.wikipedia.org/wiki/Majuli",
+        "category": "Indian Geography"
+    },
+    {
+        "id": 26,
+        "question": "In which year was the Indian National Congress founded?",
+        "reference_answer": "1885",
+        "source": "https://en.wikipedia.org/wiki/Indian_National_Congress",
+        "category": "Indian History"
+    },
+    {
+        "id": 27,
+        "question": "Which pass connects Shimla to Tibet?",
+        "reference_answer": "Shipki La",
+        "source": "https://en.wikipedia.org/wiki/Shipki_La",
+        "category": "Indian Geography"
+    },
+    {
+        "id": 28,
+        "question": "Who gave the slogan Jai Hind?",
+        "reference_answer": "Subhas Chandra Bose",
+        "source": "https://en.wikipedia.org/wiki/Subhas_Chandra_Bose",
+        "category": "Indian History"
+    },
+    {
+        "id": 29,
+        "question": "Which is the largest man-made lake in India?",
+        "reference_answer": "Indira Sagar Lake",
+        "source": "https://en.wikipedia.org/wiki/Indira_Sagar_Dam",
+        "category": "Indian Geography"
+    },
+    {
+        "id": 30,
+        "question": "In which year did India become a Republic?",
+        "reference_answer": "1950",
+        "source": "https://en.wikipedia.org/wiki/Republic_Day_(India)",
+        "category": "Indian History"
+    }
+]
