@@ -40,6 +40,29 @@ questions_df = conn.execute("""
 conn.close()
 
 st.header("📊 Overall Performance")
+st.header("🚨 Regression Alerts")
+if len(runs_df) >= 2:
+    latest_accuracy = runs_df.iloc[0]['accuracy_pct']
+    previous_accuracy = runs_df.iloc[1]['accuracy_pct']
+    latest_similarity = runs_df.iloc[0]['avg_similarity']
+    previous_similarity = runs_df.iloc[1]['avg_similarity']
+    
+    accuracy_drop = previous_accuracy - latest_accuracy
+    similarity_drop = previous_similarity - latest_similarity
+    
+    if accuracy_drop > 5:
+        st.error(f"⚠️ Accuracy dropped by {accuracy_drop:.1f}% compared to previous run!")
+    elif accuracy_drop > 0:
+        st.warning(f"⚠️ Slight accuracy drop of {accuracy_drop:.1f}% compared to previous run")
+    else:
+        st.success("✅ No accuracy regression detected")
+        
+    if similarity_drop > 0.05:
+        st.error(f"⚠️ Similarity score dropped by {similarity_drop:.3f} compared to previous run!")
+    else:
+        st.success("✅ No similarity regression detected")
+else:
+    st.info("ℹ️ Need at least 2 runs to detect regressions")
 col1, col2, col3 = st.columns(3)
 if len(runs_df) > 0:
     latest = runs_df.iloc[0]
