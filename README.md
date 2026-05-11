@@ -12,13 +12,13 @@ An automated evaluation and hallucination detection system for Large Language Mo
 ## Screenshots
 
 ### Regression Alert & Overall Performance
-![Regression Alert](Screenshot1.png) 
+![Regression Alert](screenshot1.png) 
 
 ### Key Metrics
-![Metrics](Screenshot2.png)
+![Metrics](screenshot2.png)
 
 ### All Runs Table
-![All Runs](Screenshot3.png)
+![All Runs](screenshot3.png) 
 
 ## Key findings
 - `llama-3.3-70b-versatile` scored 30/30 (100% accuracy, 0.49 avg similarity)
