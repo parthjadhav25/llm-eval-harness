@@ -12,10 +12,10 @@ An automated evaluation and hallucination detection system for Large Language Mo
 ## Screenshots
 
 ### Regression Alert & Overall Performance
-![Regression Alert](screenshot1.png)
+![Regression Alert](Screenshot1.png)
 
 ### Key Metrics
-![Metrics](screenshot2.png)
+![Metrics](Screenshot2.png)
 
 ### All Runs Table
 ![All Runs](Screenshot3.png)
