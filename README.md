@@ -9,6 +9,17 @@ An automated evaluation and hallucination detection system for Large Language Mo
 - Stores every run permanently in a DuckDB database with timestamps and model names
 - Displays performance trends, model comparisons, and per-question drilldowns in a live Streamlit dashboard
 
+## Screenshots
+
+### Regression Alert & Overall Performance
+![Regression Alert](screenshot1.png)
+
+### Key Metrics
+![Metrics](screenshot2.png)
+
+### All Runs Table
+![All Runs](screenshot3.png)
+
 ## Key findings
 - `llama-3.3-70b-versatile` scored 30/30 (100% accuracy, 0.49 avg similarity)
 - `llama-3.1-8b-instant` scored 26/30 (86.7% accuracy, 0.46 avg similarity)
