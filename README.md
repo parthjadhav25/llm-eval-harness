@@ -18,7 +18,7 @@ An automated evaluation and hallucination detection system for Large Language Mo
 ![Metrics](screenshot2.png)
 
 ### All Runs Table
-![All Runs](image2.png) 
+![All Runs](ss1.png)
 
 ## Key findings
 - `llama-3.3-70b-versatile` scored 30/30 (100% accuracy, 0.49 avg similarity)
