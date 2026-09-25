@@ -1,3 +1,6 @@
+## 🔗 Live Demo
+[llm-eval-harness-4t6lndgzhg7mrty7pejoxy.streamlit.app](https://llm-eval-harness-4t6lndgzhg7mrty7pejoxy.streamlit.app)
+
 # 🧠 LLM Evaluation Harness
 
 An automated evaluation and hallucination detection system for Large Language Models, built with Python, DuckDB, and Streamlit.
@@ -51,5 +54,5 @@ An automated evaluation and hallucination detection system for Large Language Mo
 5. Launch the dashboard:
    streamlit run dashboard.py
 
-## Run with a specific model
-   python runner.py llama-3.1-8b-instant
+## Note on model availability
+This project originally used llama-3.3-70b-versatile via Groq. That model was later decommissioned by Groq; the project now uses openai/gpt-oss-20b, with eval results updated accordingly.
