@@ -10,7 +10,7 @@ from scorer import semantic_score
 
 load_dotenv()
 API_KEY = os.getenv("GROQ_API_KEY")
-MODEL = sys.argv[1] if len(sys.argv) > 1 else "llama-3.3-70b-versatile"
+MODEL = sys.argv[1] if len(sys.argv) > 1 else "openai/gpt-oss-20b"
 
 def ask_llm(question):
     response = requests.post(
@@ -27,6 +27,7 @@ def ask_llm(question):
         }
     )
     data = response.json()
+    print(data)
     return data["choices"][0]["message"]["content"]
 
 def check_answer(model_answer, reference_answer):

@@ -1,0 +1,7 @@
+streamlit
+duckdb
+requests
+python-dotenv
+sentence-transformers
+scikit-learn
+torch
